@@ -1,0 +1,65 @@
+Information on the safety paramters for beaches which is the main theme of our topic
+Karnataka beaches:
+1. Gokarna Beach (Overview: Known for its serene atmosphere and religious significance.)
+
+High Tide Height: Typically ranges between 2.5 to 3.5 meters during high tide.
+Wave Height: Average wave height is around 1.5 to 2 meters, with higher swells during the monsoon season.
+Ocean Currents: Generally moderate, but rip currents can occur, especially during high tide.
+Storm Surge Risk: Low to moderate; occasional during cyclonic activity in the Arabian Sea.
+Wind Speed: Light to moderate winds (10-20 km/h), with stronger gusts during monsoons.
+
+2. Murudeshwar Beach (Overviw: Famous for the towering statue of Lord Shiva.)
+High Tide Height: Usually between 2 to 3 meters.
+Wave Height: Around 1.5 to 2 meters; higher during monsoon storms.
+Ocean Currents: Strong currents can be present, particularly near the rocks.
+Storm Surge Risk: Moderate; the beach can experience coastal flooding during cyclones.
+Wind Speed: Generally moderate (15-25 km/h); can increase significantly during storms.
+
+3. Kapu Beach (Overview: Recognized for its scenic lighthouse and pristine surroundings.)
+High Tide Height: Typically ranges from 2 to 3 meters.
+Wave Height: Moderate, around 1.5 to 2 meters.
+Ocean Currents: Rip currents are common, especially near the lighthouse area.
+Storm Surge Risk: Moderate to high during severe weather events.
+Wind Speed: Moderate to strong (20-30 km/h), with higher speeds during monsoon.
+
+4. Malpe Beach (Overview: A popular spot for adventure sports and close to St. Mary’s Island)
+High Tide Height: Around 2 to 2.5 meters.
+Wave Height: Typically 1 to 1.5 meters; larger waves during monsoon.
+Ocean Currents: Moderate, with occasional strong currents near the estuary.
+Storm Surge Risk: Moderate, with potential flooding during cyclonic conditions.
+Wind Speed: Generally 15-20 km/h; can rise during storms.
+------------------------------------------------
+Kerala Beaches:
+1. Kovalam Beach (Overview:  A major tourist hub with three crescent-shaped beaches.)
+High Tide Height: Typically ranges between 2.5 to 3 meters.
+Wave Height: Moderate, around 1.5 to 2.5 meters.
+Ocean Currents: Strong currents, especially during monsoon season.
+Storm Surge Risk: Moderate to high, particularly during cyclonic events.
+Wind Speed: Moderate to strong (20-30 km/h); gusty winds during monsoon.
+
+2. Varkala Beach (Overview: Known for its cliffs adjacent to the Arabian Sea.)
+High Tide Height: Typically around 2 to 3 meters.
+Wave Height: 1.5 to 2 meters on average; can reach 3 meters during monsoon.
+Ocean Currents: Strong rip currents are common, particularly near the cliffs.
+Storm Surge Risk: Moderate; the beach is slightly elevated, providing some protection.
+Wind Speed: Moderate (15-25 km/h), higher during monsoon.  
+
+3. Kumarakom Beach (Overview: Close to the Vembanad Lake, a hotspot for bird watchers.)
+High Tide Height: Generally around 2 meters.
+Wave Height: 1 to 1.5 meters; higher during extreme weather.
+Ocean Currents: Moderate; less intense than other beaches due to proximity to Vembanad Lake.
+Storm Surge Risk: Low to moderate; partly shielded by the lake's geography.
+Wind Speed: Light to moderate winds (10-20 km/h).
+
+=====Ideas====
+1. Data collection using INCOIS API on the above parameters.
+2. Continuous monitoring and updating of suitability status based on live data.
+3. Use of geospatial maps to pinpoint beaches along the Karnataka and Kerala coastlines.
+4. Color Coding:
+  Green: Suitable for recreational activities.
+  Yellow: Caution advised; minor risks present.
+  Red: Not suitable, significant risks.
+5. User Notifications (If a person is present at the time of any high/low tide, we can notify him through notifications based on GPS)
+6. Interactive UI
+
+
